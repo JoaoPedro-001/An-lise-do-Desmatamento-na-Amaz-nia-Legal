@@ -3,7 +3,13 @@
 Projeto de análise de dados utilizando Python para explorar o desmatamento na Amazônia Legal ao longo do tempo.
 
 ---
+## 🌐 Visualização Interativa
 
+Acesse o gráfico:
+
+👉 https://joaopedro-001.github.io/Analise-do-Desmatamento-na-Amazonia-Legal/
+
+---
 ## 🔍 Funcionalidades
 
 * Análise temporal do desmatamento
