@@ -1,0 +1,1 @@
+# An-lise-do-Desmatamento-na-Amaz-nia-Legal
