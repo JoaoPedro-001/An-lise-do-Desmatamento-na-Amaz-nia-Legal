@@ -70,4 +70,5 @@ fig.update_layout(
 # ======================
 # 6. Mostrar gráfico
 # ======================
+fig.write_html("grafico_interativo.html")
 fig.show()
